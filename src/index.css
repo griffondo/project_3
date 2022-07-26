@@ -5,6 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+
+}
+
+.main_body {
+  background-color: gray;
+}
+
+.My_Shredule {
+text-align: center;
+font-size: 40px
+}
+
+.paragraph_body {
+  text-align: center;
+  font-size: larger;
 }
 
 code {
