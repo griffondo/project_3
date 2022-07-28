@@ -7,7 +7,8 @@ const Home = () => {
           <nav class="navbar">
             <ul class="nav_list">
               <li><a href='#'>About</a></li>
-              <li><a href='#'>Sign In</a></li>
+              <li><a href='/login'>Sign In</a></li>
+              <li><a href='/signup'>SignUp</a></li>
               <li><a href='/planning'>Start Planning</a></li>
             </ul>
           </nav>
